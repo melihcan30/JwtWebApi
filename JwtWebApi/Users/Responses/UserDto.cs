@@ -1,4 +1,4 @@
-﻿namespace JwtWebApi
+﻿namespace JwtWebApi.Users.Responses
 {
     public class UserDto
     {

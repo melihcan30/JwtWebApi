@@ -1,4 +1,4 @@
-﻿namespace JwtWebApi
+﻿namespace JwtWebApi.Users.Commands
 {
     public class User
     {
